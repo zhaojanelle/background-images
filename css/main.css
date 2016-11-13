@@ -1,0 +1,33 @@
+html {
+  font-family: Arvo, Georgia, serif;
+  color: #2e1b13;
+}
+
+a {
+  border-bottom: .15em solid currentcolor;
+
+  color: #2e1b13;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #da823b;
+  border-bottom: 3px solid #8e4a32;
+  border-top: 3px solid #8e4a32;
+}
+
+.search-input {
+  border-color: #84452f;
+}
+
+.search-btn {
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .search-label {
+    text-align: right;
+  }
+
+}
