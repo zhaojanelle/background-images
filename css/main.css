@@ -4,7 +4,7 @@ html {
 }
 
 a {
-  border-bottom: .15em solid currentcolor;
+  border-bottom: .15em solid currentColor;
 
   color: #2e1b13;
   text-decoration: none;
