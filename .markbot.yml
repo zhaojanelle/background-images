@@ -1,0 +1,35 @@
+repo: 'background-images'
+canvasCourse: 'web-dev-3'
+
+inherit:
+  - naming-restrict-live
+  - git-2
+  - css
+  - css-order-modules-grid-type-main
+  - modulifier
+  - modulifier-list-group
+  - gridifier
+  - typografier
+  - screenshots-all
+  - google-fonts
+
+html:
+  - path: 'index.html'
+    locked: true
+
+css:
+  - path: 'css/main.css'
+    has:
+      - ['html', 'font-family', 'Arvo, Georgia, serif']
+      - ['a', 'color', '#2e1b13']
+      - ['.footer', ['background-image', 'background-size', 'background-repeat', background-position]]
+      - ['.search-input', ['background-image', 'background-size', 'background-repeat', background-position]]
+      - ['.search-btn', 'background-image']
+      - ['@60', '.search-label']
+    search:
+      - 'linear-gradient'
+      - 'no-repeat'
+      - '../images/spy-glass.svg'
+      - '../images/bg.svg'
+      - '../images/border-bottom.svg'
+      - '../images/border-top.svg'
