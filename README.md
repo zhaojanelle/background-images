@@ -8,7 +8,7 @@
 
 This is the starter code for a step-by-step lesson. Each step is described in detail here:
 
-### [**Follow the Background images lesson starter step-by-step lesson ➔**](http://learn-the-web.algonquindesign.ca/courses/web-dev-3/background-images/)
+### [**Follow the Background images step-by-step lesson ➔**](http://learn-the-web.algonquindesign.ca/courses/web-dev-3/background-images/)
 
 ---
 
