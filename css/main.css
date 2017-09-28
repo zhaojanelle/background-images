@@ -26,7 +26,8 @@ a {
 }
 
 .search-btn {
-
+  background-image: linear-gradient(to bottom, #794431, #8e4a32);
+  border-color: #794431;
 }
 
 @media only screen and (min-width: 60em) {
